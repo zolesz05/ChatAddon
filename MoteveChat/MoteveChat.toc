@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: |cff7fd8ffMo|r|cffa88bffteve|r Chat
+## Notes: Chat window with large tabs, per-tab message filters and whisper conversations.
+## Notes-huHU: Chatablak nagy fülekkel, fülenkénti üzenetszűréssel és whisper-beszélgetésekkel.
+## Author: Zoltán Gosztonyi
+## Version: 0.3.0
+## SavedVariables: MoteveChatDB
+## SavedVariablesPerCharacter: MoteveChatChar
+
+Locales.lua
+Core.lua
+Links.lua
+Whisper.lua
+Filters.lua
+Window.lua
+FilterOptions.lua
